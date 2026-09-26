@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm middle aged software developer who is using AI to do all the things I wanted but was to lazy to do it. 
 <!--
 **greis09/greis09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
